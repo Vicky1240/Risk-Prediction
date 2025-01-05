@@ -12,7 +12,6 @@ This project focuses on predicting risk in the life insurance sector using machi
 ├── data/
 │   └── train.csv
 ├── docs/
-│   └── IE_7275_Project.md
 ├── .gitignore
 ├── LICENSE
 └── README.md
