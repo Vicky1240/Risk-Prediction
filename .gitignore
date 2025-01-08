@@ -1,8 +1,8 @@
 
 # Ignore unnecessary files and directories
 .ipynb_checkpoints/
-*.csv
-*.docx
+.csv
+.docx
 *.log
 __pycache__/
 .env
